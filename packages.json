@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "updated": "2015-11-23",
-  "repo1": "https://github.com/ott-app/appstore-0x01/raw/master/packages/",
+  "repo1": "https://github.com/ott-app/appstore-0x01/raw/chinese-hk/packages/",
   "movies": [
     {"package-id": "com.vst.live", "name": "VST直播", "version": "2.1.6", "platform": "android", "source": "repo1", "checksum": "786e696f67c128b4ae0f648aa63c4374"},
     {"package-id": "net.myvst.v2", "name": "VST全聚合", "version": "3.0.8", "platform": "android", "source": "repo1", "checksum": "f93db0a44e67130b15ee13f0becfa569"},
