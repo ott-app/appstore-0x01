@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "updated": "2015-11-23",
+  "repo1": "https://github.com/ott-app/appstore-0x01/raw/chinese-hk/packages/",
+  "movies": [
+    {"package-id": "com.vst.live", "name": "VST直播", "version": "2.1.6", "platform": "android", "source": "repo1", "checksum": "786e696f67c128b4ae0f648aa63c4374"},
+    {"package-id": "net.myvst.v2", "name": "VST全聚合", "version": "3.0.8", "platform": "android", "source": "repo1", "checksum": "f93db0a44e67130b15ee13f0becfa569"},
+    {"package-id": "com.moretv.android", "name": "電視貓視頻", "version": "2.6.1", "platform": "android", "source": "repo1", "checksum": "36696907a0085b47da8d01894d9577e1"},
+    {"package-id": "com.kgeking.client", "name": "K歌之王", "version": "4.0.0.0", "platform": "android", "source": "repo1", "checksum": "812168e81b88aab5194ee6e6824d9e68"},
+    {"package-id": "com.dangbeimarket", "name": "當貝市場", "version": "3.8.1", "platform": "android", "source": "repo1", "checksum": "06ab6c1c803f4244549f2085d6c6a1af"}
+    ]
+}
