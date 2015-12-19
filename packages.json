@@ -1,12 +1,20 @@
 {
   "version": "1.0.0",
-  "updated": "2015-11-23",
+  "updated": "2015-12-20",
   "repo1": "https://github.com/ott-app/appstore-0x01/raw/chinese-hk/packages/",
   "movies": [
     {"package-id": "com.vst.live", "name": "VST直播", "version": "2.1.6", "platform": "android", "source": "repo1", "checksum": "786e696f67c128b4ae0f648aa63c4374"},
-    {"package-id": "net.myvst.v2", "name": "VST全聚合", "version": "3.0.8", "platform": "android", "source": "repo1", "checksum": "f93db0a44e67130b15ee13f0becfa569"},
-    {"package-id": "com.moretv.android", "name": "電視貓視頻", "version": "2.6.1", "platform": "android", "source": "repo1", "checksum": "36696907a0085b47da8d01894d9577e1"},
-    {"package-id": "com.kgeking.client", "name": "K歌之王", "version": "4.0.0.0", "platform": "android", "source": "repo1", "checksum": "812168e81b88aab5194ee6e6824d9e68"},
-    {"package-id": "com.dangbeimarket", "name": "當貝市場", "version": "3.8.1", "platform": "android", "source": "repo1", "checksum": "06ab6c1c803f4244549f2085d6c6a1af"}
+    {"package-id": "net.myvst.v2", "name": "VST全聚合", "version": "3.1.1", "platform": "android", "source": "repo1", "checksum": "07c77217214aabab761b274dfe4b86b7"},
+    {"package-id": "com.moretv.android", "name": "電視貓視頻", "version": "2.6.3", "platform": "android", "source": "repo1", "checksum": "14d2f997d6b0b84aa2fe39403d2e4a88"},
+    {"package-id": "com.kgeking.client", "name": "K歌之王", "version": "4.1.0.0", "platform": "android", "source": "repo1", "checksum": "4f1a596741f452e3fff7b6475b29ff5f"},
+    {"package-id": "com.dangbeimarket", "name": "當貝市場", "version": "3.8.3.1", "platform": "android", "source": "repo1", "checksum": "dfd59c63d2d12e041f69bbed855596c5"},
+    {"package-id": "com.elinkway.tvlive2", "name": "电视家2.0", "version": "2.7.0", "platform": "android", "source": "repo1", "checksum": "3ca84a751549e79ba1fe759f9842877d"},
+    {"package-id": "com.yunyun.hktvshows", "name": "電視熱播", "version": "1.0.2", "platform": "android", "source": "repo1", "checksum": "795280e71946d98c4f6efc61064e6c81"},
+    {"package-id": "com.bilibili.tv", "name": "哔哩哔哩", "version": "0.7.5", "platform": "android", "source": "repo1", "checksum": "b2c4d0f9fc3501781648dad9c9e3417d"},
+    {"package-id": "com.qianxun.tvbox", "name": "千寻影视", "version": "1.6.1", "platform": "android", "source": "repo1", "checksum": "023732e57b784594453f8c77855f701e"},
+    {"package-id": "com.copybot.video", "name": "剧集", "version": "1.2.8", "platform": "android", "source": "repo1", "checksum": "4cba297529da688ced6b3c1bd3e549d2"},
+    {"package-id": "com.bobo.splayer", "name": "3D播播", "version": "3.11.2.dangbei", "platform": "android", "source": "repo1", "checksum": "c91b4f89d96cea2aaa1c276c35c0b0af"},
+    {"package-id": "com.hktv.android.smarttv", "name": "HKTV電視", "version": "1.0.1", "platform": "android", "source": "repo1", "checksum": "0c9553a0104d03c8aa5e07f015a953e6"},
+    {"package-id": "hdpfans.com", "name": "HDP", "version": "2.0.5", "platform": "android", "source": "repo1", "checksum": "873fc2daacb5b6068ed962941b1387b3"}
     ]
 }
