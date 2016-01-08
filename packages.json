@@ -3,6 +3,7 @@
   "updated": "2015-12-20",
   "repo1": "https://github.com/ott-app/appstore-0x01/raw/chinese-hk/packages/",
   "movies": [
+    {"package-id": "com.bit.tvlive.activity", "name": "FTV", "version": "v1.0.2", "platform": "android", "source": "repo1", "checksum": "40462357887101743f95c19b779463bf"},
     {"package-id": "com.vst.live", "name": "VST直播", "version": "2.1.6", "platform": "android", "source": "repo1", "checksum": "786e696f67c128b4ae0f648aa63c4374"},
     {"package-id": "net.myvst.v2", "name": "VST全聚合", "version": "3.1.1", "platform": "android", "source": "repo1", "checksum": "07c77217214aabab761b274dfe4b86b7"},
     {"package-id": "com.moretv.android", "name": "電視貓視頻", "version": "2.6.3", "platform": "android", "source": "repo1", "checksum": "14d2f997d6b0b84aa2fe39403d2e4a88"},
@@ -10,11 +11,16 @@
     {"package-id": "com.dangbeimarket", "name": "當貝市場", "version": "3.8.3.1", "platform": "android", "source": "repo1", "checksum": "dfd59c63d2d12e041f69bbed855596c5"},
     {"package-id": "com.elinkway.tvlive2", "name": "电视家2.0", "version": "2.7.0", "platform": "android", "source": "repo1", "checksum": "3ca84a751549e79ba1fe759f9842877d"},
     {"package-id": "com.yunyun.hktvshows", "name": "電視熱播", "version": "1.0.2", "platform": "android", "source": "repo1", "checksum": "795280e71946d98c4f6efc61064e6c81"},
-    {"package-id": "com.bilibili.tv", "name": "哔哩哔哩", "version": "0.7.5", "platform": "android", "source": "repo1", "checksum": "b2c4d0f9fc3501781648dad9c9e3417d"},
+    {"package-id": "com.bilibili.tv", "name": "哔哩哔哩", "version": "0.7.5", "platform": "android", "source": "repo1", "checksum": "2defe0cf9c3997670bd3b5e8fe1a798d"},
     {"package-id": "com.qianxun.tvbox", "name": "千寻影视", "version": "1.6.1", "platform": "android", "source": "repo1", "checksum": "023732e57b784594453f8c77855f701e"},
     {"package-id": "com.copybot.video", "name": "剧集", "version": "1.2.8", "platform": "android", "source": "repo1", "checksum": "4cba297529da688ced6b3c1bd3e549d2"},
     {"package-id": "com.bobo.splayer", "name": "3D播播", "version": "3.11.2.dangbei", "platform": "android", "source": "repo1", "checksum": "c91b4f89d96cea2aaa1c276c35c0b0af"},
     {"package-id": "com.hktv.android.smarttv", "name": "HKTV電視", "version": "1.0.1", "platform": "android", "source": "repo1", "checksum": "0c9553a0104d03c8aa5e07f015a953e6"},
-    {"package-id": "hdpfans.com", "name": "HDP", "version": "2.0.5", "platform": "android", "source": "repo1", "checksum": "873fc2daacb5b6068ed962941b1387b3"}
+    {"package-id": "hdpfans.com", "name": "HDP", "version": "2.0.5", "platform": "android", "source": "repo1", "checksum": "873fc2daacb5b6068ed962941b1387b3"},
+    {"package-id": "com.molitv.android", "name": "魔力视频", "version": "1.0.89", "platform": "android", "source": "repo1", "checksum": "5d4e22bbcaada31f6de7e86d62e51109"},
+    {"package-id": "cn.beevideo", "name": "蜜蜂视频", "version": "2.04.03", "platform": "android", "source": "repo1", "checksum": "5d0bd81ea9e16269b0a7f48d9b7b69fe"},
+    {"package-id": "com.kandian.vodapp4tv", "name": "快手看片", "version": "4.6.50", "platform": "android", "source": "repo1", "checksum": "0461b030ec59fec3c3a09afd71bb9de8"},
+    {"package-id": "com.wukongtv.wkhelper", "name": "悟空遥控", "version": "1.9.6.6", "platform": "android", "source": "repo1", "checksum": "124252a41569af9cda4da5ffa487a052"},
+    {"package-id": "rthk.screen", "name": "RTHK Screen", "version": "2.1.0", "platform": "android", "source": "repo1", "checksum": "7596b64022bcb87731964b44ffc79870"}
     ]
 }
