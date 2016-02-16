@@ -13,7 +13,7 @@
     {"package-id": "com.yunyun.hktvshows", "name": "電視熱播", "version": "1.0.2", "platform": "android", "source": "repo1", "checksum": "795280e71946d98c4f6efc61064e6c81"},
     {"package-id": "com.bilibili.tv", "name": "哔哩哔哩", "version": "0.7.5", "platform": "android", "source": "repo1", "checksum": "2defe0cf9c3997670bd3b5e8fe1a798d"},
     {"package-id": "com.qianxun.tvbox", "name": "千寻影视", "version": "1.6.1", "platform": "android", "source": "repo1", "checksum": "023732e57b784594453f8c77855f701e"},
-    {"package-id": "com.copybot.video", "name": "剧集", "version": "1.2.8", "platform": "android", "source": "repo1", "checksum": "4cba297529da688ced6b3c1bd3e549d2"},
+    {"package-id": "com.copybot.video", "name": "剧集", "version": "1.2.9", "platform": "android", "source": "repo1", "checksum": "8591bdc87cfcede6b32ed416016b19d9"},
     {"package-id": "com.bobo.splayer", "name": "3D播播", "version": "3.11.2.dangbei", "platform": "android", "source": "repo1", "checksum": "c91b4f89d96cea2aaa1c276c35c0b0af"},
     {"package-id": "com.hktv.android.smarttv", "name": "HKTV電視", "version": "1.0.1", "platform": "android", "source": "repo1", "checksum": "0c9553a0104d03c8aa5e07f015a953e6"},
     {"package-id": "hdpfans.com", "name": "HDP", "version": "2.0.5", "platform": "android", "source": "repo1", "checksum": "873fc2daacb5b6068ed962941b1387b3"},
