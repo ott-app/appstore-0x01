@@ -25,6 +25,7 @@
     {"package-id": "com.mylove.tvback", "name": "華語回看", "version": "3.0.1114044", "platform": "android", "source": "repo1", "checksum": "c67aff72aecbbdab2c691d999cabda0a"},
     {"package-id": "com.ftvworld", "name": "FTV國際版", "version": "1.7", "platform": "android", "source": "repo1", "checksum": "616cfdd56f76ec991924f48efddb2cc4"},
     {"package-id": "com.iwantavnow", "name": "測試工具", "version": "5.1", "platform": "android", "source": "repo1", "checksum": "b68484900f839130bcb4c70061c2d617"},
-    {"package-id": "tv.danmaku.bilixl", "name": "哔哩哔哩白", "version": "1.0.0", "platform": "android", "source": "repo1", "checksum": "f5e4196f7fcec9535b320ef092e7b563"}
+    {"package-id": "tv.danmaku.bilixl", "name": "哔哩哔哩白", "version": "1.0.0", "platform": "android", "source": "repo1", "checksum": "f5e4196f7fcec9535b320ef092e7b563"},
+    {"package-id": "com.qiyi.tv", "name": "愛奇藝視頻", "version": "3.6", "platform": "android", "source": "repo1", "checksum": "d3ca4d4c424b99998c4cee45dea17304"}
     ]
 }
