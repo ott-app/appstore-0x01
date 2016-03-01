@@ -3,6 +3,7 @@
   "updated": "2016-01-08",
   "repo1": "https://github.com/ott-app/appstore-0x01/raw/chinese-hk/packages/",
   "movies": [
+    {"package-id": "com.ftvworld", "name": "FTV國際版", "version": "1.7", "platform": "android", "source": "repo1", "checksum": "616cfdd56f76ec991924f48efddb2cc4"},
     {"package-id": "com.bit.tvlive.activity", "name": "FTV", "version": "v1.0.2", "platform": "android", "source": "repo1", "checksum": "8309aaecb22ab0efb4da10cd047143a2"},
     {"package-id": "com.vst.live", "name": "VST直播", "version": "2.1.6", "platform": "android", "source": "repo1", "checksum": "786e696f67c128b4ae0f648aa63c4374"},
     {"package-id": "net.myvst.v2", "name": "VST全聚合", "version": "3.1.1", "platform": "android", "source": "repo1", "checksum": "07c77217214aabab761b274dfe4b86b7"},
@@ -23,7 +24,6 @@
     {"package-id": "com.wukongtv.wkhelper", "name": "悟空遥控", "version": "1.9.6.6", "platform": "android", "source": "repo1", "checksum": "124252a41569af9cda4da5ffa487a052"},
     {"package-id": "rthk.screen", "name": "RTHK Screen", "version": "2.1.0", "platform": "android", "source": "repo1", "checksum": "7596b64022bcb87731964b44ffc79870"},
     {"package-id": "com.mylove.tvback", "name": "華語回看", "version": "3.0.1114044", "platform": "android", "source": "repo1", "checksum": "c67aff72aecbbdab2c691d999cabda0a"},
-    {"package-id": "com.ftvworld", "name": "FTV國際版", "version": "1.7", "platform": "android", "source": "repo1", "checksum": "616cfdd56f76ec991924f48efddb2cc4"},
     {"package-id": "com.iwantavnow", "name": "測試工具", "version": "5.1.cn", "platform": "android", "source": "repo1", "checksum": "12bc64623a74632300532592cb9ac269"},
     {"package-id": "tv.danmaku.bilixl", "name": "哔哩哔哩白", "version": "1.0.0", "platform": "android", "source": "repo1", "checksum": "f5e4196f7fcec9535b320ef092e7b563"},
     {"package-id": "com.qiyi.tv", "name": "愛奇藝視頻", "version": "3.6", "platform": "android", "source": "repo1", "checksum": "d3ca4d4c424b99998c4cee45dea17304"}
