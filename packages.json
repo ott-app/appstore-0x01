@@ -3,7 +3,7 @@
   "updated": "2016-01-08",
   "repo1": "https://github.com/ott-app/appstore-0x01/raw/chinese-hk/packages/",
   "movies": [
-    {"package-id": "com.ftvworld", "name": "FTV國際版", "version": "1.7", "platform": "android", "source": "repo1", "checksum": "616cfdd56f76ec991924f48efddb2cc4"},
+    {"package-id": "com.ftvworld", "name": "FTV國際版", "version": "1.7.1", "platform": "android", "source": "repo1", "checksum": "0fd88b9db720df2961b75710382dc8af"},
     {"package-id": "com.bit.tvlive.activity", "name": "FTV", "version": "v1.0.2", "platform": "android", "source": "repo1", "checksum": "8309aaecb22ab0efb4da10cd047143a2"},
     {"package-id": "com.vst.live", "name": "VST直播", "version": "2.1.6", "platform": "android", "source": "repo1", "checksum": "786e696f67c128b4ae0f648aa63c4374"},
     {"package-id": "net.myvst.v2", "name": "VST全聚合", "version": "3.1.1", "platform": "android", "source": "repo1", "checksum": "07c77217214aabab761b274dfe4b86b7"},
